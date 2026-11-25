@@ -14,13 +14,18 @@ Obsidian plugin that automatically unchecks completed todo list items at midnigh
 
 ## Install (manual)
 
-1. Create a folder in your vault:
+1. Download the latest release assets from
+   [Releases](https://github.com/WaffleStudioGit/ObsidianPublic/releases/tag/1.0.0)
+   (or grab `midnight-todo-reset-1.0.0.zip`).
+2. Create a folder in your vault:
    `YourVault/.obsidian/plugins/midnight-todo-reset/`
-2. Copy these files into that folder:
+3. Copy these files into that folder:
    - `main.js`
    - `manifest.json`
    - `styles.css`
-3. In Obsidian: **Settings → Community plugins →** enable **Midnight Todo Reset**
+4. In Obsidian: **Settings → Community plugins →** enable **Midnight Todo Reset**
+
+Repo: https://github.com/WaffleStudioGit/ObsidianPublic
 
 ## Develop
 
