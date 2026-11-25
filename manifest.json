@@ -1,0 +1,10 @@
+{
+	"id": "midnight-todo-reset",
+	"name": "Midnight Todo Reset",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Automatically unchecks todo list items at midnight every night.",
+	"author": "Lincoln",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
